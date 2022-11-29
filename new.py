@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-"""An empty class"""
+"""A function that prints a line of code"""
 
 
-print("Passed tests")
+def checking():
+    """Pass style tests and print text"""
+    print("Passed tests")
+
+
+checking()
